@@ -16,7 +16,8 @@ Using just a breadboard and a laptop (to connect the ESP-TFT), you can connect t
   - SW (switch when you press in on joystick) to 33 [ended up not using, but initially connected while designing) 
 ![Breadboard schematic](fritzing_img/module2_bb.png)
 ![Layout schematic of circuit](fritzing_img/module2_schem.png)
-If prefered, you can also follow the layout schematic of the circuit. 
+
+- If prefered, you can also follow the layout schematic of the circuit. 
 
 ## Code - Design Choices
 ### To change the tracked tasks
