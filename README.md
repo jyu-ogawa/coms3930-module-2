@@ -2,6 +2,10 @@
 
 Using a pushbutton, a potentiometer, and a joystick connected to a ESP-TFT, I make a task tracker. 
 
+![Breadboard schematic](fritzing_img/module2_bb.png)
+
+![Layout schematic of circuit][fritzing_img/module2_schem.png]
+
 ## Code - Design Choices
 ### To change the tracked tasks
 
