@@ -5,20 +5,18 @@ On the Processing code, the list of tasks to be tracked is created and, based on
 
 Using just a breadboard and a laptop (to connect the ESP-TFT), you can connect the circuit elements as presented in the schematic below. The wiring connections are as follow:
 - On the pushbutton:
-  *Connected to 15
+  - Connected to 15
 - On the potentiometer: 
-  *Connected to 13
+  - Connected to 13
 - On the joystick:
-  *GND to GND
-  *+5V to +3V power rail (this is to help normalize the readings from the potentiometer)
-  *VRX (x-direction of joystick) to 39
-  *VRY (y-direction of joystick) to 32
-  *SW (switch when you press in on joystick) to 33 [ended up not using, but initially connected while designing) 
-
-
+  - GND to GND
+  - +5V to +3V power rail (this is to help normalize the readings from the potentiometer)
+  - VRX (x-direction of joystick) to 39
+  - VRY (y-direction of joystick) to 32
+  - SW (switch when you press in on joystick) to 33 [ended up not using, but initially connected while designing) 
 ![Breadboard schematic](fritzing_img/module2_bb.png)
-
 ![Layout schematic of circuit](fritzing_img/module2_schem.png)
+If prefered, you can also follow the layout schematic of the circuit. 
 
 ## Code - Design Choices
 ### To change the tracked tasks
