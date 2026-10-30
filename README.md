@@ -1,6 +1,8 @@
 # coms3930-module-2: Interactive Device
 
-<img width="162" height="122" alt="showcase" src="https://github.com/user-attachments/assets/e52244b6-e4ef-4a67-a5ca-3603f2ce4b75" />
+<img width="280" height="280" alt="Adobe Express - mod2-demo" src="https://github.com/user-attachments/assets/eb8b3c73-5d40-411e-a091-6a08bbbef051" />
+
+https://github.com/user-attachments/assets/c8a1d224-76a8-49ba-9b78-3fd967575a84
 
 For my interactive device, I made a task tracker using a pushbutton, a potentiometer, and a joystick connected to a ESP-TFT board.
 On the Processing code, the list of tasks to be tracked is created and, based on the serial communication sent from the Arduino processing of the sensors' inputs, the status of each task can be updated to reflect its current state (X - completed, else empty for not yet completed) pressing the push button. To change the active task to be updated, the user controls the potentiometer's knob. Offering customisation to the user, the joystick's x-axis switches between available design themes. The y-axis on the joysticke offers a convenient way to reset all tasks to be uncompleted. 
